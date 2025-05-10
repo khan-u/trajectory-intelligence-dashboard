@@ -7,6 +7,7 @@
 ## 🧭 Why Trajectory Matters
 
 Modern telemetry systems capture *where* and *how* an entity moves. But turning those XY time‑series into decisions — **collision avoidance**, **route optimisation**, **behavioural detection** — requires a multi‑layer pipeline.  
+
 This dashboard walks through nine figures, each a transformation step that widens the lens from noisy coordinates to machine‑learning‑ready features.
 
 ---
@@ -15,7 +16,6 @@ This dashboard walks through nine figures, each a transformation step that widen
 
 - **Autonomous Vehicles:** Real‑time trajectory overlap avoids path collisions and minimises idle taxiing  
 - **Smart Warehousing:** Forklift telematics leverage percentile thresholds to trigger geo‑fenced slow‑downs  
-- **Sports Performance:** Coaches quantify athlete coverage and fatigue by mapping high‑speed strokes  
 - **Public Safety & CCTV:** Loitering detection uses directional histograms to flag suspicious circling  
 - **Aerial Robotics:** Flight‑path redundancy informs battery allocation and rerouting
 
@@ -74,7 +74,4 @@ The 5th‑percentile distance filter spotlights near‑misses. Insurance telemat
 
 ---
 Author: Umais KHan (2021) 
-
-
----
 
