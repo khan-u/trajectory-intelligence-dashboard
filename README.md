@@ -58,22 +58,23 @@ Only high‑speed linear strokes survive this gate, isolating purposeful bursts 
 Bidirectional segments reveal potential conflict corridors. Multi‑agent simulators plug these vectors into reinforcement learning for cooperative policy training.
 
 ---
-
-### 7. Proximal Conflict Candidates
-![Proximal Conflict Candidates](assets/Figure_3.png)  
-The 5th‑percentile distance filter spotlights near‑misses. Insurance telematics and UAV traffic managers use the same threshold logic to price risk in real time.
-
----
-
-### 8. Overlap Histogram by Direction
+### 7. Overlap Histogram by Direction
 ![Overlap Histogram by Direction](assets/Figure_2.png)  
 Pairwise distances between opposing paths quantify redundancy within narrow angles — crucial for optimising drone patrol loops and warehouse pick routes.
 
 ---
 
-### 9. Global Overlap Distribution
+### 8. Global Overlap Distribution
 ![Global Overlap Distribution](assets/Figure_1.png)  
 The global 5th‑percentile cut‑off acts as a dynamic anomaly threshold. Telemetry dashboards surface paths below this line as potential process deviations.
+
+### 9. Proximal Conflict Candidates
+![Proximal Conflict Candidates](assets/Figure_3.png)  
+The 5th‑percentile distance filter spotlights near‑misses. Insurance telematics and UAV traffic managers use the same threshold logic to price risk in real time.
+
+---
+Author: Umais KHan (2021) 
+
 
 ---
 
