@@ -31,7 +31,7 @@ Pixel‑accurate XY traces gathered at millisecond resolution. In autonomous veh
 
 ### 2. Drift‑Free Trajectory Reconstruction
 ![Drift-Free Trajectory Reconstruction](assets/Figure_8.png)  
-Smoothing and centring remove lens distortion and arena bias — the same principles that underpin SLAM correction in warehouse robots and drone navigation.
+Smoothing and centring remove lens distortion and arena bias — the same principles that underpin SLAM correction in warehouse robots and navigation.
 
 ---
 
@@ -60,7 +60,7 @@ Bidirectional segments reveal potential conflict corridors. Multi‑agent simula
 ---
 ### 7. Overlap Histogram by Direction
 ![Overlap Histogram by Direction](assets/Figure_2.png)  
-Pairwise distances between opposing paths quantify redundancy within narrow angles — crucial for optimising drone patrol loops and warehouse pick routes.
+Pairwise distances between opposing paths quantify redundancy within narrow angles — crucial for optimising patrol loops and warehouse pick routes.
 
 ---
 
@@ -73,5 +73,5 @@ The global 5th‑percentile cut‑off acts as a dynamic anomaly threshold. Telem
 The 5th‑percentile distance filter spotlights near‑misses. Insurance telematics and UAV traffic managers use the same threshold logic to price risk in real time.
 
 ---
-Author: Umais KHan (2021) 
+Author: Umais Khan (2021) 
 
