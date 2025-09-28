@@ -1,8 +1,4 @@
-# Trajectory Analytics Dashboard
-
-**From raw video pixels to predictive insights — a nine‑stage analytic pipeline built for real‑world telematics, robotics, and spatial analytics.**
-
----
+# Spatial Trajectory Analytics 
 
 Modern telemetry systems capture *where* and *how* an entity moves. But turning those XY time‑series into decisions — **collision avoidance**, **route optimisation**, **behavioural detection** — requires a multi‑layer pipeline.  
 
