@@ -1,10 +1,8 @@
-# 🚦 Trajectory Intelligence Dashboard
+# Trajectory Analytics Dashboard
 
-**From raw video pixels to predictive insights — showcasing a nine‑stage analytic pipeline built for real‑world telematics, robotics, and spatial analytics.**
+**From raw video pixels to predictive insights — a nine‑stage analytic pipeline built for real‑world telematics, robotics, and spatial analytics.**
 
 ---
-
-## 🧭 Why Trajectory Matters
 
 Modern telemetry systems capture *where* and *how* an entity moves. But turning those XY time‑series into decisions — **collision avoidance**, **route optimisation**, **behavioural detection** — requires a multi‑layer pipeline.  
 
@@ -12,8 +10,7 @@ This dashboard walks through nine figures, each a transformation step that widen
 
 ---
 
-## 🌍 Cross‑Industry Impact
-
+## Applications
 - **Autonomous Vehicles:** Real‑time trajectory overlap avoids path collisions and minimises idle taxiing  
 - **Smart Warehousing:** Forklift telematics leverage percentile thresholds to trigger geo‑fenced slow‑downs  
 - **Public Safety & CCTV:** Loitering detection uses directional histograms to flag suspicious circling  
@@ -21,7 +18,7 @@ This dashboard walks through nine figures, each a transformation step that widen
 
 ---
 
-## 📦 Dashboard Cards
+## Dashboard 
 
 ### 1. Frame‑Level Position Extraction
 ![Frame-Level Position Extraction](assets/Figure_9.png)  
