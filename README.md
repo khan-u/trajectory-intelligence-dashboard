@@ -1,4 +1,7 @@
 # Spatial Trajectory Analytics Dashboard
+
+### This data was collected from videos of rats in an open-field experimental setting to support work published in [eLife, 2023](https://doi.org/10.7554/eLife.80661).
+
 ---
 
 ### 1. Frame‑Level Position Extraction
